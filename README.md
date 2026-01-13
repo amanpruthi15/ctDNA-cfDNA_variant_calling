@@ -135,13 +135,13 @@ Also update Docker mount paths for:
 Run the script from the command line:
 
 ```bash
-python combined_variants.py <project_dir> <sample_info_file>
+python variant_Cal.py <project_dir> <sample_info_file>
 ```
 
 ### Example
 
 ```bash
-python combined_variants.py /data/ctdna_project samples.tsv
+python variant_calling_and_annotation_ctDNA.py /data/ctdna_project samples.tsv
 ```
 
 ---
