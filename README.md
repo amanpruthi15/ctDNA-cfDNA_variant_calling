@@ -135,7 +135,7 @@ Also update Docker mount paths for:
 Run the script from the command line:
 
 ```bash
-python variant_calling_and_annotation_ctDNA <project_dir> <sample_info_file>
+python variant_calling_and_annotation_ctDNA.py <project_dir> <sample_info_file>
 ```
 
 ### Example
